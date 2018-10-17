@@ -1,5 +1,5 @@
 # grokRipper
-A web simple scrapping python script for openGrok.  Just run the ripper.py after installing the requirements; Enter grok url and local download path with trailing slash(/) 
+A simple web scrapping script for openGrok in python.  Just run the ripper.py after installing the requirements; Enter grok url and local download path with trailing slash(/) 
 
 ### Requirements
 - Python 3+
